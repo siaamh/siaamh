@@ -30,7 +30,7 @@ I'm a self-taught **backend developer** from **Bangladesh**, passionate about bu
 
 ## 📂 Projects Snapshot
 
-- 🛍️ **Verse** — A custom single-vendor e-commerce backend  
+- 🛍️ **VerseMart** — A custom single-vendor e-commerce backend  
 - 💸 **Lenden** — Mobile banking API with transactions, statements, and smart logic  
 - 🎁 **Coupon System** — Reserved coupon logic with expiry and atomic purchase flow  
 - 📊 **Statement Tracker** — One model to track every type of transaction via signals
@@ -47,8 +47,8 @@ I'm a self-taught **backend developer** from **Bangladesh**, passionate about bu
 
 ## 📫 Let's Connect
 
-- 📧 Email: yourname@email.com
-- 🐙 GitHub: [github.com/SiamHosen](https://github.com/SiamHosen)
+- 📧 Email: write2siam.h@gmail.com
+- 🐙 GitHub: [github.com/SiamHosen](https://github.com/siaamh)
 
 ---
 
